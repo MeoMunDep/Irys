@@ -1,3 +1,1 @@
-[# Irys
-Auto faucet.
-](https://irys.xyz/faucet)
+faucet: https://irys.xyz/faucet
